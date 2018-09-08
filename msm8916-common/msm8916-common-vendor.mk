@@ -34,12 +34,14 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8916-common/proprietary/vendor/bin/xtra-daemon:vendor/bin/xtra-daemon \
     vendor/motorola/msm8916-common/proprietary/vendor/framework/com.qti.location.sdk.jar:vendor/framework/com.qti.location.sdk.jar \
     vendor/motorola/msm8916-common/proprietary/vendor/framework/izat.xt.srv.jar:vendor/framework/izat.xt.srv.jar \
+    vendor/motorola/msm8916-common/proprietary/vendor/framework/QPerformance.jar:vendor/framework/QPerformance.jar \
     vendor/motorola/msm8916-common/proprietary/vendor/etc/xtra_root_cert.pem:vendor/etc/xtra_root_cert.pem \
     vendor/motorola/msm8916-common/proprietary/vendor/etc/data/dsi_config.xml:vendor/etc/data/dsi_config.xml \
     vendor/motorola/msm8916-common/proprietary/vendor/etc/data/netmgr_config.xml:vendor/etc/data/netmgr_config.xml \
     vendor/motorola/msm8916-common/proprietary/vendor/etc/data/qmi_config.xml:vendor/etc/data/qmi_config.xml \
     vendor/motorola/msm8916-common/proprietary/vendor/etc/permissions/com.qti.location.sdk.xml:vendor/etc/permissions/com.qti.location.sdk.xml \
     vendor/motorola/msm8916-common/proprietary/vendor/etc/permissions/izat.xt.srv.xml:vendor/etc/permissions/izat.xt.srv.xml \
+    vendor/motorola/msm8916-common/proprietary/vendor/etc/permissions/com.qualcomm.qti.Performance.xml:vendor/etc/permissions/com.qualcomm.qti.Performance.xml \
     vendor/motorola/msm8916-common/proprietary/vendor/etc/permissions/qcnvitems.xml:vendor/etc/permissions/qcnvitems.xml \
     vendor/motorola/msm8916-common/proprietary/vendor/etc/permissions/qcrilhook.xml:vendor/etc/permissions/qcrilhook.xml \
     vendor/motorola/msm8916-common/proprietary/vendor/firmware/sensorhubfw.bin:vendor/firmware/sensorhubfw.bin \
