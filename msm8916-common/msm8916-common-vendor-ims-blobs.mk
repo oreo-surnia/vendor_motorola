@@ -56,11 +56,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8916-common/proprietary/vendor/lib/vendor.qti.imsrtpservice@1.0.so:vendor/lib/vendor.qti.imsrtpservice@1.0.so
 
 PRODUCT_PACKAGES += \
-    ims \
-    imssettings \
     com.qualcomm.qti.imscmservice \
     cneapiclient \
     CNEService \
     com.quicinc.cne.api \
     qti-vzw-ims-internal
-

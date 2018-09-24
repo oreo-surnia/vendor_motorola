@@ -233,5 +233,3 @@ PRODUCT_PACKAGES += \
     qcnvitems \
     qcrilhook
 
-
-
