@@ -232,5 +232,7 @@ PRODUCT_PACKAGES += \
     TimeService \
     qcrilmsgtunnel \
     qti-vzw-ims-internal \
+    ims \
+    imssettings \
     qcnvitems \
     qcrilhook
