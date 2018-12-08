@@ -82,7 +82,6 @@ LOCAL_VENDOR_MODULE := true
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-<<<<<<< HEAD
 LOCAL_MODULE := com.qualcomm.qti.imscmservice
 LOCAL_MODULE_OWNER := motorola
 LOCAL_SRC_FILES := proprietary/vendor/framework/com.qualcomm.qti.imscmservice@1.0-java.jar
@@ -107,8 +106,6 @@ LOCAL_VENDOR_MODULE := true
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-=======
->>>>>>> 0e6d080... msm8916-common : Kill IMS
 LOCAL_MODULE := qti-vzw-ims-internal
 LOCAL_MODULE_OWNER := motorola
 LOCAL_SRC_FILES := proprietary/vendor/framework/qti-vzw-ims-internal.jar
